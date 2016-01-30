@@ -1,3 +1,3 @@
 # hello-world
-Test repository to learn Git
-Leran Git, you git!
+Test repository to learn Git. 
+Learn Git, you git!
